@@ -32,7 +32,7 @@ my $res = json_build {
 
 This will build the following structure:
 
-```html
+```json
 {
   "content": "<p>This is <i>serious</i> monkey business</p>",
   "created_at": "2011-10-29T20:45:28-05:00",
